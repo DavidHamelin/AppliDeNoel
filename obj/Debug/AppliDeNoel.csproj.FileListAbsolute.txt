@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\bin\Debug\AppliDeNoel.exe.config
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\bin\Debug\AppliDeNoel.exe
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\bin\Debug\AppliDeNoel.pdb
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\obj\Debug\AppliDeNoel.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\obj\Debug\AppliDeNoel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\obj\Debug\AppliDeNoel.exe
+C:\Users\Dell\source\repos\AppliBonus\AppliDeNoel\obj\Debug\AppliDeNoel.pdb
